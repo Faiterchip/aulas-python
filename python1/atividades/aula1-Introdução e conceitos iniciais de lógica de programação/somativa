@@ -1,0 +1,50 @@
+Descrição: Desenvolver um projeto simples que envolva os conceitos aprendidos e conforme novos conceitos são aprendidos,
+novas versões do projeto serão criadas com novas implementações do sistema.
+
+Projeto: Calculadora de IMC (Índice de Massa Corporal)
+
+Requisitos da lógica básica
+Solicitar o peso (em kg) e a altura (em metros) do usuário.
+Calcular o IMC usando a fórmula:  IMC = peso / (altura ** 2)
+Informar a classificação do IMC de acordo com a tabela padrão
+Tabela Padrão:
+·    Abaixo do peso para imc abaixo de 18,5
+·    Peso normal se o imc estiver entre 18,5 e 24,9:
+·   Sobrepeso se o imc estiver entre 25 e 29,9
+·   Obesidade para imc maior que 29,9
+
+Conforme novos conceitos forem sendo aprendidos, o projeto deverá sofrer atualizações de versões:
+
+·  Versão 1:
+Lógica simples usando realizando a leitura dos dados e apresentando o resultado.
+
+·  Versão 2:
+Implementar no projeto a possibilidade de realizar quantas análises for preciso através do uso de estrutura de loop. Apresentar no final o total de análises feitas, a quantidade e porcentagem obtida em cada classificação.
+
+Exemplo:
+o    200 pacientes analisados
+o    Abaixo do peso: 20 pacientes = 10%
+o    Peso normal: 80 pacientes = 40%
+o    Sobrepeso: 60 pacientes = 30%
+o    Obesidade: 40 pacientes = 20%
+
+·        
+Versão 3: Separar o código em funções.
+
+Criar um menu no inicio do programa que dê ao usuário a opção de escolha:
+1-     Calculadora de IMC
+2-     Verificar análise dos dados: Mostra as porcentagens
+3-    Sair
+·        
+Versão 4: Criar uma tela para o programa criado.
+
+Desafio Extra:
+
+o    Usando Listas, criar um registro dos pacientes armazenando seu nome, peso, altura, imc
+calculado, resultado do estado do peso.
+
+o    Permitir visualizar todos os pacientes
+
+o    Permitir realizar a busca dos dados de um paciente específico.
+
+Portar o link do repositório do criado no seu GitHub com as versões deste projeto

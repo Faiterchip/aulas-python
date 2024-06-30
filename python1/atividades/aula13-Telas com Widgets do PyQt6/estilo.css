@@ -1,0 +1,11 @@
+QPushButton{
+    background-color: black;
+    color:white;
+    font: 14pt MS shell Dlg 2;
+    border-style: solid;
+    border-color:red;
+    border-width: 2px;
+    border-radius: 100px;
+    box-shadow: 0cm;
+    font-size: 20px;
+}
